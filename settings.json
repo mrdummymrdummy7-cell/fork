@@ -2,12 +2,12 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "ABOT",
-    "password": "12345",
+    "password": "46071",
     "type": "online"
   },
   "server": {
-    "ip": " wantplaypls.aternos.me",
-    "port": 60902,
+    "ip": " DemoRavels.aternos.me",
+    "port": 46071,
     "version": "1.20.5",
     "try-creative": false
   },
@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "",
+        "server like 2b2t no hacks",
         "I like to play Minecraft!"
       ]
     },
